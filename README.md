@@ -1,4 +1,4 @@
-# binary-search-method
+# Binary search method
 
 <pre>
 let arr = new Array(100)
